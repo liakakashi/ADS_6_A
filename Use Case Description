@@ -1,0 +1,53 @@
+Kelompok 6	
+Nama Anggota :
+1.	Alfian Eka Prastyo		    (150535602204)
+2.	Amalia				            (150535601365)
+3.	Dimas Abdurrahman Sayuti	(150535602873)
+
+Use Case
+
+A.	Penentuan User
+    •	Musisi/Band Lokal  (Aktor 1) : 
+      1.	Upload Lagu
+      2.	Jual Merchandise
+    •	Penikmat Musik (Aktor 2)
+      1.	Streaming Musik
+      2.	Beli Merchandise
+      3.	Update Kegiatan (Jadwal Konser)
+      4.	Buat Playlist (Personalisasi Musik)
+    •	Admin (Aktor 3) :
+      1.	Maintenance
+      2.	Sistem akan me-record histori user
+      3.	Sistem akan me-record jumlah karya yang dinikmati
+      4.	Sistem akan merekomendasikan playlist sesuai dengan data yang telah diperoleh
+
+B.	Use Case Description
+
+1.	Use Case Name	: Streaming Musik
+2.	Actor	        : Penikmat Musik
+3.	Description	  : Penikmat music dapat  streaming music dengan tiga cara rekomendasi :
+    1.	Search music sesuai dengan yang diinginkan
+    2.	Integrasikan dengan map, sehingga aplikasi akan merekomendasikan karya musisi/band local daerah sesuai dengan tempat 
+        berada atau yang dipilih
+    3.	Top charts, berdasarkan :
+        a.	Area, sistem akan menampilkan top chart daerah mulai dari kota, provinsi, dan nasional.
+        b.	Genre, sistem akan menampilkan top chart sesuai dengan genre musik
+4.	Trigger	      : Ingin mengetahui dan menikmati karya musisi/band local daerah menggunakan 3 cara rekomendasi diatas.
+5.	Pre-Condition	:
+        •	Mengaktifkan akses internet (user)
+        •	Mengaktifkan GPS (user)
+        •	Sistem menyiapkan database aplikasi
+6.	Normal Case	:
+        •	User melakukan login / sign up
+        •	User memilih menu streaming music
+        •	User memilih cara untuk mendengarkan music
+        •	User menikmati musik
+7.	Post Conditions	:
+        •	Halaman menampilkan music yang sedang diputar
+        •	Sistem dapat me-record aktivitas yang nantinya akan menampilkan rekomendasi atau menu lainnya
+        •	Sistem akan mencatat waktu dan jumlah suatu karya dinikmati yang nantinya akan dianalisis dan dijadikan top chart
+8.	Exception	 :
+        •	Sistem akan menampilkan playlist daerah terdekat, jika daerah yang dipilih tidak ada karya musisi/band local daerah
+        •	Sistem akan menampilkan halaman “Yang anda cari tidak ditemukan”, jika user melakukan search music yang tidak terdapat 
+          dalam database music yang disediakan sistem.
+          
