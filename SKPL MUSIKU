@@ -96,3 +96,19 @@ BAB 3
     1. ID		: SRS-F-OUT-001
        Kebutuhan	: Perangkat lunak dapat menampilkan form sign up
        Deskripsi	: Pengguna yang belum terdaftar dapat melakukan sign up sehingga perangkat lunak perlu menampilkan form sign up
+    2. ID 		: SRS-F-OUT-002
+       Kebutuhan	: Perangkat lunak dapat menampilkan form sign in
+       Penjelasan	: Pengguna yang telah terdaftar dapat melakukan sign sehingga perangkat lunak perlu menampilkan form sign in
+    3. ID		: SRS-F-OUT-003
+       Kebutuhan	: Perangkat lunak dapat menampilkan form entri pendaftaran
+       Penjelasan	: Form entri pendaftaran ditampilkan saat pengguna melakukan pendaftaran sebagai musisi
+    4. ID		: SRS-F-IN-004
+       Kebutuhan	: Perangkat lunak dapat menerima masukan dari pengguna, berupa pendataan karya musisi/band local daerah
+       Penjelasan	: Data karya musisi berupa lagu dan merchandise yang dimasukakan oleh pengguna dapat diterima oleh perangkat
+    5. ID		: SRS-F-PR-005
+       Kebutuhan	: Perangkat lunak dapat menyimpan data karya musisi
+       Penjelasan	: Setelah pengguna yang melakukan pendaftaran sebagai musisi memasukkan data yang dibutuhkan, perangkat lunak 
+			  menyimpan data tersebut
+    6. ID		: SRS-F-OUT-006
+       Kebutuhan	: Perangkat lunak dapat menampilkan top chart
+       
