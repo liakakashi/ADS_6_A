@@ -26,6 +26,9 @@ Berikut definisi, istilah serta singkatan yang digunakan dalam dokumen ini
 1.4	Aturan Penomoran
 
 1.5	Referensi
+	http://repository.unair.ac.id/56790/14/ST.SI%2041-16%20Kus%20a%20SKRIPSI-min.pdf
+	http://eprints.unisbank.ac.id/3356/1/full.pdf
+	https://media.neliti.com/media/publications/116901-ID-on-demand-audio-streaming-menggunakan-me.pdf
 
 1.6	Deskripsi umum Dokumen (Ikhtisar)
 
@@ -61,10 +64,11 @@ BAB 3
 	* Tampilan top chart
 	* Tampilan katalog merchandise
   
-	Alat-alat yang mendukung antarmuka pemakai adalah sebaga
+	Alat-alat yang mendukung antarmuka pemakai adalah sebagai
 	* Keyboard
 	* Mouse
 	* Monitor
+	* Sound/Speaker
 
 3.1.2	Antarmuka Perangkat Keras
 	    Antarmuka perangkat keras yang digunakan untuk mengoperasikan perangkat lunak antara lain :
@@ -76,10 +80,9 @@ BAB 3
 
 3.1.4	Antarmuka Komunikasi
 	    Antarmuka komunikasi yang digunakan untuk mengoperasikan perangkat lunak antara lain :
-	    * Kuota Internet
+	    * Akses Internet
 
 3.2	Kebutuhan Fungsional 
-
     1. ID		: SRS-F-OUT-001
        Kebutuhan	: Perangkat lunak dapat menampilkan form sign up
        Deskripsi	: Pengguna yang belum terdaftar dapat melakukan sign up sehingga perangkat lunak perlu menampilkan form sign up
