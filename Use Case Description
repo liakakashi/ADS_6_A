@@ -8,25 +8,27 @@ Use Case
 
 A.	Penentuan User
     •	Musisi/Band Lokal  (Aktor 1) : 
-      1.	Upload Lagu
+      1.	Upload /KaryaLagu
       2.	Jual Merchandise
+      3.    Input Update Schedule 
     •	Penikmat Musik (Aktor 2)
       1.	Streaming Musik
       2.	Beli Merchandise
-      3.	Update Kegiatan (Jadwal Konser)
+      3.	Mengetahui ipdate Kegiatan (Jadwal Konser)
       4.	Buat Playlist (Personalisasi Musik)
     •	Admin (Aktor 3) :
       1.	Maintenance
       2.	Sistem akan me-record histori user
       3.	Sistem akan me-record jumlah karya yang dinikmati
       4.	Sistem akan merekomendasikan playlist sesuai dengan data yang telah diperoleh
+      5.    Meng-Update Top daerah
 
 B.	Use Case Description
 
 1.	Use Case Name	: Streaming Musik
 2.	Actor	        : Penikmat Musik
 3.	Description	  : Penikmat music dapat  streaming music dengan tiga cara rekomendasi :
-    1.	Search music sesuai dengan yang diinginkan
+    1.	Search musik sesuai dengan yang diinginkan
     2.	Integrasikan dengan map, sehingga aplikasi akan merekomendasikan karya musisi/band local daerah sesuai dengan tempat 
         berada atau yang dipilih
     3.	Top charts, berdasarkan :
