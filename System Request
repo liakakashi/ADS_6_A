@@ -13,6 +13,7 @@ System Request MUSIKU
     a)	Perkembangan musisi local lebih merata
     b)	Mendukung musisi local untuk terus berkarya
     c)	Menjadi wadah musisi local untuk berkarya menjual karyanya
+    d) 	Semua musisi lokal daerah maupun kota besar memiliki kesempatan terkenal yang sama tergantung kualitas dan jumlah pendengar 
     
 3.	Business Requirements	:
     a)	Fasilitas pencarian musisi local berdasarkan wilayah
@@ -27,5 +28,4 @@ System Request MUSIKU
     c)	Memudahkan jual beli karya musisi/band local daerah
     d)	Mengurangi kesenjangan musisi/band local daerah dengan musisi/band kota
     
-5.	Special Issues	: Sistem dibangun berbasis aplikasi streaming music digital dan e-commerce
-	
+5.	Special Issues	: Sistem dibangun berbasis aplikasi streaming musik digital dan layanan jual beli karya berupa rilisan fisik, kaos, sticker, pin dll	
