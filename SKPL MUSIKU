@@ -58,10 +58,41 @@ BAB 2
 
 BAB 3
 3.	Deskripsi Kebutuhan
-3.1 Kebutuhan Antarmuka Eksternal
-3.1.1 Antarmuka pemakai
-3.1.2 Antarmuka Perangkat Keras
-3.1.3 Antarmuka Perangkat Lunak
-3.1.4 Antarmuka Komunikasi
-3.2 Kebutuhan Fungsional
+3.1	Kebutuhan Antarmuka Eksternal
+	Perangkat Lunak MUSIKU membutuhkan fasilitas-fasilitas antar muka eksternal sebagai berikut :
 
+3.1.1	Antarmuka pemakai
+	User interface yang digunakan untuk mengoperasikan Perangkat Lunak MUSIKU antara lain :
+	* Tampilan awal aplikasi
+	* Tampilan login
+	* Tampilan sign up
+	* Tampilan akun
+	* Tampilan form penjualan
+	* Tampilan form pembelian
+	* Tampilan  search musik
+	* Tampilan streaming musik
+	* Tampilan top chart
+	* Tampilan katalog merchandise
+  
+	Alat-alat yang mendukung antarmuka pemakai adalah sebaga
+	* Keyboard
+	* Mouse
+	* Monitor
+
+3.1.2	Antarmuka Perangkat Keras
+	    Antarmuka perangkat keras yang digunakan untuk mengoperasikan perangkat lunak antara lain :
+	    * Smartphone
+
+3.1.3	Antarmuka Perangkat Lunak
+	    Antarmuka yang digunakan oleh perangkat lunak ini adalah sebuah smartphone dengan minimal versi Android 4.0-4.02 
+      Ice Cream Sandwich (API level 14).
+
+3.1.4	Antarmuka Komunikasi
+	    Antarmuka komunikasi yang digunakan untuk mengoperasikan perangkat lunak antara lain :
+	    * Kuota Internet
+
+3.2	Kebutuhan Fungsional 
+
+    1. ID		: SRS-F-OUT-001
+       Kebutuhan	: Perangkat lunak dapat menampilkan form sign up
+       Deskripsi	: Pengguna yang belum terdaftar dapat melakukan sign up sehingga perangkat lunak perlu menampilkan form sign up
