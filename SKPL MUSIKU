@@ -1,47 +1,34 @@
 BAB 1
 1.	Pendahuluan
+ BAB 1
+1.	Pendahuluan
   1.1	Tujuan Penulisan Dokumen
-      Dokumen ini ditulis dalam rangka menjabarkan spesifikasi kebutuhan perangkat lunak yang akan digunakan oleh Badan Ekonomi Kreatif (BEKRAF)
-  . Penjabaran spesifikasi perangkat lunak meliputi deskripsi umum perangkat lunak dan deskripsi kebutuhan perangkat lunak. Perangkat lunak
-  yang akan dibangun untuk Badan Ekonomi Kreatif bernama MUSIKU, sebuah aplikasi streaming music digital yang menjadi wadah musisi atau band
-  local daerah untuk berkarya. Aplikasi MUSIKU dilatarbelakangi pada kesenjangan musisi atau band local daerah dengan musisi atau band kota,
-  sehingga perkembangan musisi local lebih merata. Dengan dilengkapi fasilitas pencarian musisi atau band local daerah berdasarkan wilayah
-  yang diinginkan, informasi schedule dan update musisi atau band local, serta top chart. Dalam rangka membangun perangkat lunak tersebut, 
-  membutuhkan spesifikasi kebutuhan perangkat lunak, khususnya oleh para pengembang dan pembangun perangkat lunak tersebut. 
+Dokumen ini ditulis dalam rangka menjabarkan spesifikasi kebutuhan perangkat lunak yang mendukung terciptanya dan memicu para musisi yang notabenya berada di daerah yang jauh dari kota besar untuk terus berkarya tanpa ada kesenjangan atau deskriminasi karena pada aplikasi streaming musik “MUSIKU” dapat memindai musisi atau karya berdasarkan lokasi user berada atau user inginkan dan nantinya akan di proses menjadi chart ranking berdasarkan top daerah dan terus di adu menuju top chart nasional. sehingga perkembangan musisi local lebih merata dan tidak kalah dengan musisi yang berada di kota-kota besar. Selain pemindai musisi atau karya berdasar lokasi, pada aplikasi ini terdapat informasi schedule, update musisi atau band local dan juga terdapat layanan untuk jual beli merchendise dari musisi tersebut untuk mendekatkan hubungan antara user sebagai penggemar dengan sang musisi atau artist. Dengan demikian aplikasi streaming musik “MUSIKU” akan bekerjasama dengan Badan Ekonomi Kreatif (BEKRAF) karena memiliki kesamaan tujuan, visi dan misi. 
+Penjabaran spesifikasi perangkat lunak meliputi deskripsi umum perangkat lunak dan deskripsi kebutuhan perangkat lunak.  Dalam rangka membangun perangkat lunak tersebut, membutuhkan spesifikasi kebutuhan perangkat lunak, khususnya oleh para pengembang dan pembangun perangkat lunak tersebut. 
   
   1.2	Lingkup Masalah
-      MUSIKU adalah sebuah aplikasi streaming music dan e-commerce berbasis android. Dari segi aplikasi streaming music, MUSIKU akan 
-  menghadirkan tiga cara untuk menikmati karya musisi atau band local yaitu pencarian music sesuai dengan yang diinginkan berdasarkan 
-  judul lagu maupun nama musisi atau band lokal , pencarian music dengan integrase maps, dan Top Chart berdasarkan area dan genre music. 
-  Kemudian, dari segi e-commerce, MUSIKU akan menyediakan fitur Merchandise, dimana musisi atau band local daerah dapat menjual karyanya,
-  dan penikmat dapat membeli merchandise, sehingga dapat dilakukan transaksi jual-beli di aplikasi MUSIKU secara online. Aplikasi ini 
-  tidak membatasi user, sehingga siapapun pengguna aplikasi tersebut dapat mengupload serta mempublikasikan karyanya. Pengguna perangkat
-  lunak dapat melakukan pendaftaran, sign in, mengunggah karya, menjual merchandise, menikmati karya musisi atau band local, 
-  membeli merchandise yang dinginkan, dan melakukan pembayaran. Sistem ini dikelola oleh seorang admin yang bertugas untuk memperbaharui
-  katalog lagu dan merchandise, data musisi, data user atau penikmat music, dan data pemesanan merchandise. Data-data yang dikelola admin
-  diharapkan akan memudahkan Badan Ekonomi Kreatif dalam sinkronisasi kebijakan ekonomi kreatif bidang music di lingkup daerah. 
+“MUSIKU” adalah sebuah aplikasi streaming musik dan e-commerce mobile berbasis android yang akan menyuguhkan tiga cara untuk menikmati karya musisi atau band local yaitu pencarian musik sesuai dengan yang diinginkan berdasarkan judul lagu maupun nama musisi atau band dan juga memiliki fitur unggulan yaitu pencarian musisi atau karya yang terintegrasi dengan maps dan Top Chart berdasarkan area user dan genre musik, serta memiliki layanan yang menyediakan fitur Merchandise, dimana musisi atau band lokal daerah dapat menjual karyanya, dan penikmat dapat membeli merchandise, sehingga dapat dilakukan transaksi jual-beli di aplikasi MUSIKU secara online. Hal tersebut merupakan pengembangan dari beberapa aplikasi streaming musik yang saat ini sudah ada. 
+Pada aplikasi “MUSIKU” semua orang bisa mendaftar dan dapat mengunggah karyanya di aplikasi ini. Sehingga, siapapun bisa menjadi artist. Pengguna perangkat lunak dapat melakukan pendaftaran, sign in, mengunggah karya, menjual merchandise, menikmati karya musisi atau band local, membeli merchandise yang dinginkan, dan melakukan pembayaran. Sistem ini dikelola oleh seorang admin yang bertugas untuk memperbaharui katalog lagu berdasarkan chart yang pada kategori masing-masing yang diambil dari perolehan data jumlah berapa kali karya tersebut diputar. Jadi musisi lokal daerah bisa ber-adu dari lingkup yang terkecil hingga terluas, sehingga faktor kualitas menjadi salah satu faktor utama menjadi musisi terkenal bukan karena faktor lokasi strategis.
   
 1.3	Definisi, Istilah dan Singkatan
-    Berikut definisi, istilah serta singkatan yang digunakan dalam dokumen ini 
-    1)	Aplikasi Streaming Musik sebuah teknologi kompresi file audio agar mudah dan dinikmati melalui jaringan audio. Streaming music 
-        memungkinkan suatu file audio dapat segera dijalankan tanpa harus menunggu selesai didownload dan terus mengalir tanpa ada intrupsi.
-    2)	E-Commerce merupakan aktivitas transaksi elektronik yang berkaitan dengan pembelian, penjualan, pemasaran barang atau jasa 
-        dengan memanfaatkan internet atau jaringan computer. 
-    3)	BEKRAF merupakan Badan Ekonomi Kreatif yang mempunyai tugas membantu Presiden dalam merumuskan, menentapkan, mengkoordinasi, 
-        dan sinkronisai kebijakan ekonomi kreatif di berbagai bidang, salah satunya adalah music.
-    4)	Musisi Lokal merupakan
-    5)	Merchandise merupakan
-    6)	DFD merupakan
-    7)	ERD merupakan
-    8)	Interface merupakan
-    9)	Data Store merupakan
-    10)	API merupakan
+Berikut definisi, istilah serta singkatan yang digunakan dalam dokumen ini 
+1.	Aplikasi Streaming Musik sebuah teknologi kompresi file audio agar mudah dan dinikmati melalui jaringan audio. Streaming musik memungkinkan suatu file audio dapat segera dijalankan tanpa harus menunggu selesai didownload dan terus mengalir tanpa ada intrupsi.
+2.	E-Commerce merupakan aktivitas transaksi elektronik yang berkaitan dengan pembelian, penjualan, pemasaran barang atau jasa dengan memanfaatkan internet atau jaringan computer. 
+3.	BEKRAF merupakan Badan Ekonomi Kreatif yang mempunyai tugas membantu Presiden dalam merumuskan, menentapkan, mengkoordinasi, dan sinkronisai kebijakan ekonomi kreatif di berbagai bidang, salah satunya adalah musik.
+4.	Musisi Indie Lokal merupakan  gerakan bermusik yang berbasis dari apa yang kita miliki. Bedanya dengan musik mainstream, dimusik indie kita dituntut untuk mandiri, mulai dari merekam, mendistribusikan dan promosi dengan uang sendiri.
+5.	Merchandise adalah pernak-pernik yang sering kita jumpai dan dipakai oleh banyak orang diberbagai kesempatan. Contohnya adalah pada kaos polos dengan sablon atau bordir yang ada gambar dan logo perusahaan, atau bisa juga pada payung, jam dinding, flashdisk, pulpen, buku, cangkir kopi dan lainnya. Merchandise yang keren dan unik akan menarik perhatian yang tentu saja menampilkan logo merek atau perusahaan.
+6.	DFD adalah suatu diagram yang menggunakan notasi-notasi untuk menggambarkan arus dari data sistem, yang penggunaannya sangat membantu untuk memahami sistem secara logika, tersruktur dan jelas.
+7.	ERD merupakan representasi grafis dari sistem informasi yang menunjukkan hubungan antara orang, objek, tempat, konsep atau kejadian di dalam sebuah sistem. ERD adalah teknik pemodelan data yang dapat membantu mendefinisikan proses bisnis dan dapat digunakan sebagai relasional database.
+8.	Interface merupakan mekanisme komunikasi antara pengguna (user) dengan sistem. Antarmuka (Interface) dapat menerima informasi dari pengguna (user) dan memberikan informasi kepada pengguna (user) untuk membantu mengarahkan alur penelusuran masalah sampai ditemukan suatu solusi.
+9.	Data Store merupakan tempat penyimpanan data pengikat data yang ada dalam sistem. Data store dapat disimbolkan dengan sepasang dua garis sejajar atau dua garis dengan salah satu sisi samping terbuka. Proses dapat mengambil data dari atau memberikan data ke database.
+10.	API merupakan sekumpulan perintah, fungsi, dan protokol yang dapat digunakan oleh programmer saat membangun perangkat lunak untuk sistem operasi tertentu. API memungkinkan programmer untuk menggunakan fungsi standar untuk berinteraksi dengan sistem operasi lain
     
 1.4	Aturan Penomoran
 
 1.5	Referensi
 
 1.6	Deskripsi umum Dokumen (Ikhtisar)
+
 
 BAB 2
 2.	Deskripsi Umum Perangkat Lunak
