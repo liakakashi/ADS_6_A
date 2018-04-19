@@ -41,11 +41,28 @@ BAB 2
     regional,fitur merchandise yang memudahkan musisi untuk menjual pernak pernik dirinya, jadwal show pada musisi tersebut,serta update
     terbaru dari musisi.
 2.2 Karakteristik Pengguna
-
+		Pengguna pada aplikasi ini adalah seniman dan seluruh masyarakat yang menyukai musik dan ingin membuat sebuah karya seni yang 
+	berhubungan dengan musik. berikut adalahkarakteristik pengguna dari aplikasi tersebut.
+	Musisi :
+		- Mampu mengunggah file
+		- Mampu mendaftarkan diri
+		- Mampu melihat status dan update terbaru 
+		- Mampu membuat suatu karya musik
+	Pengguna ( guest )
+		- mampu melihat update terbaru
+		- Mam[u mendengarkan top chart daerah.
 2.3 Batasan
-
+	Batasan dari apikasi ini adalah :
+	- Berjalan pada sistem operasi mobile andrioid
+	- Pengguna dapat mengupdate data pribadi, upload karya musik, berjualan merchandise tentang dirinya,
+	  dan mendengarkan musik dari musisi lain.
+	- 
 2.4 Lingkungan Operasi
-
+	Perangkat lunak pada sisi server yang dibutuhkan oleh MUSIKU adalah:
+	- Perangkat smartphone android
+	- Ram 1 gb
+	- Sistem Operasi Android Marshmello
+	
 BAB 3
 3.	Deskripsi Kebutuhan
 3.1	Kebutuhan Antarmuka Eksternal
