@@ -142,20 +142,60 @@ BAB 3
 3.2	Kebutuhan Fungsional 
     1. ID		: SRS-F-OUT-001
        Kebutuhan	: Perangkat lunak dapat menampilkan form sign up
-       Deskripsi	: Pengguna yang belum terdaftar dapat melakukan sign up sehingga perangkat lunak perlu menampilkan form sign up
+       Deskripsi	: Pengguna yang belum terdaftar dapat melakukan sign upsehingga perangkat lunak perlu menampilkan form sign up
     2. ID 		: SRS-F-OUT-002
        Kebutuhan	: Perangkat lunak dapat menampilkan form sign in
        Penjelasan	: Pengguna yang telah terdaftar dapat melakukan sign sehingga perangkat lunak perlu menampilkan form sign in
-    3. ID		: SRS-F-OUT-003
+    3. ID		: SRS-F-IN-003
+       Kebutuhan	: Perangkat lunak dapat menerima masukan username dan pasword user
+       Deskripsi	: Username dan password yang dimasukkan pembeli harus dapat diterima oleh perangkat lunak
+    4. ID		: SRS-F-OUT-004
+       Kebutuhan	: Perangkat lunak dapat menampilkan home aplikasi 
+       Deskripsi	: Setelah pengguna melakukan sign in, perangkat lunak menampilkan tampilan awal atau home 
+    5. ID		: SRS-F-PR-005
+       Kebutuhan	: Perangkat lunak dapat menyediakan mode pencarian terhadap  lagu dengan integrasi map
+       Deskripsi	: Untuk memilih lagu, pengguna dapat menggunakan mode pencarian yang dilengkapi fitur map dengan memilih lokasi karya musisi yang 		  ingin didengarkan
+    6. ID		: SRS-F-PR-006
+       Kebutuhan	: Perangkat lunak dapat menyediakan mode pencarian terhadap lagu, sesuai dengan inputan user
+       Deskripsi	: Untuk memilih lagu, pengguna dapat menggunakan mode pencarian yang terdapat di perangkat lunak
+    7. ID		: SRS-F-OUT-007
+       Kebutuhan	: Perangkat lunak dapat memutar musik sesuai dengan input user
+       Penjelasan	: Lagu akan diputar setelah user menggunakan mode pencarian yang terdapat di perangkat lunak
+    8. ID		: SRS-F-PR-008
+       Kebutuhan	: Perangkat lunak dapat menerima masukan pengguna berupa like ataureview pendengar lagu 
+       Penjelasan	: Perangkat lunak akan menyimpan review setiap lagu setiap lagu diputar
+    9. ID		: SRS-F-OUT-009
+       Kebutuhan	: Perangkat lunak dapat menampilkan review lagu yang sering didengarkan pendengar musik 
+       Penjelasan	: Setelah perangkat lunak menghitung review lagu yang sering didengarkan perangkat lunak akan menampilkan informasi                                       tersebut
+   10. ID		: SRS-F-PR-010
+       Kebutuhan	: Perangkat lunak dapat menyediakan mode Top Chart sesuai dengan review lagu tiap daerah
+       Penjelasan	: Setelah perangkat lunak menampilkan informasi review lagu, perangkat lunak akan melakukan seleksi Top Chart daerah
+   11. ID		: SRS-F-PR-011
+       Kebutuhan	: Perangkat lunak dapat menyediakan mode Report untuk pendengar musik
+       Penjelasan	: Report digunakan pihak pendengar jika terdapat plagiasi atau konten buruk
+   12. ID		: SRS-F-OUT-012
+       Kebutuhan	: Perangkat lunak dapat menampilkan informasi report
+       Penjelasan	: Setelah pendengar musik memberi report karya musisi, perangkat lunak menampilkan informasi report dari pendengar musik
+   13. ID		: SRS-F-OUT-013
        Kebutuhan	: Perangkat lunak dapat menampilkan form entri pendaftaran
        Penjelasan	: Form entri pendaftaran ditampilkan saat pengguna melakukan pendaftaran sebagai musisi
-    4. ID		: SRS-F-IN-004
+   14. ID		: SRS-F-IN-014
        Kebutuhan	: Perangkat lunak dapat menerima masukan dari pengguna, berupa pendataan karya musisi/band local daerah
-       Penjelasan	: Data karya musisi berupa lagu dan merchandise yang dimasukakan oleh pengguna dapat diterima oleh perangkat
-    5. ID		: SRS-F-PR-005
+       Penjelasan	: Data karya musisi berupa lagu dan merchandise yang dimasukkan oleh pengguna dapat diterima oleh perangkat
+   15. ID		: SRS-F-PR-015
        Kebutuhan	: Perangkat lunak dapat menyimpan data karya musisi
-       Penjelasan	: Setelah pengguna yang melakukan pendaftaran sebagai musisi memasukkan data yang dibutuhkan, perangkat lunak 
-			  menyimpan data tersebut
-    6. ID		: SRS-F-OUT-006
-       Kebutuhan	: Perangkat lunak dapat menampilkan top chart
+       Penjelasan	: Setelah pengguna yang melakukan pendaftaran sebagai musisi  memasukkan data yang dibutuhkan, perangkat lunak menyimpan  		                    data tersebut
+   16. ID		: SRS-F-OUT-016
+       Kebutuhan	: Perangkat lunak dapat menampilkan data karya musisi di halaman Artist
+       Penjelasan	: Halaman Artist memiliki informasi nama musisi, karya musisi, merchandise dan schedule
+   17. ID		: SRS-F-OUT-017
+       Kebutuhan	: Perangkat lunak dapat menampilkan informasi schedule musisi 
+       Penjelasan	: User atau pengunjung dapat mengetahui jadwal artis atau musisi lokal daerah
+   18. ID		: SRS-F-OUT-018
+       Kebutuhan	: Perangkat lunak dapat menampilkan katalog merchandise musisi
+       Penjelasan	: Katalog memiliki informasi nama merchandise atau produk, harga produk
+   19. ID		: SRS-F-OUT-019
+       Kebutuhan	: Perangkat lunak dapat menyediakan mode pencarian terhadap merchandise
+       Penjelasan	: Untuk memilih merchandise, pengguna dapat menggunakan mode pencarian yang terdapat pada perangkat lunak
+
        
