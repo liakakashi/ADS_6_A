@@ -211,3 +211,17 @@ Data pelitika yang bersifat statis :
 -Data materi, adalah data-data yang mewakili materi-materi
 -Data pelitika yang bersifat dinamis 
 -Isi data materi, adalah data yang mewakili informasi materi terbaru yang telah terupdate
+
+3.4 Kebutuhan Non Fungsional 
+1. ID		: SRS-NF-OUT-020
+   Kebutuhan	: Perangkat Lunak harus terus dapat beroperasi 7 hari perminggu, 24 jam per hari tanpa gagal 
+2. ID		: SRS-NF-OUT-021
+   Kebutuhan	: Kegagalan dalam proses transaksi memiliki toleransi satu kali gagal dalam satu minggu
+3. ID		: SRS-NF-OUT-022
+   Kebutuhan	: Tampilan antarmuka MUSIKU mudah dipahami user dan estetikanya bagus
+4. ID		: SRS-NF-OUT-023
+   Kebutuhan	: Perangkat Lunak mampu mengirimkan notifikasi kepada pengguna maksimal dalam waktu 30 detik
+5. ID		: SRS-NF-OUT-024
+   Kebutuhan	: Semua tanya jawab ataupun tulisan dalam antarmuka disediakan dalam bahasa Indonesia dan bahasa Inggris
+6. ID		:SRS-NF-OUT-025
+   Kebutuhan 	: Semua tampilan harus terdapat ciri Indonesia
