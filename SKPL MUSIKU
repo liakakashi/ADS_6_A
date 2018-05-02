@@ -206,8 +206,8 @@ BAB 3
 
 3.3 Data Requirement
 Data pelitika yang bersifat statis :
--Data administrator, adalah data yang mewakili identitas administrator 
+-Data administrator, adalah data yang mewakili identitas admin
 -Data pengguna, adalah data yang mewakili identitas pengguna umum
--Data materi, adalah data-data yang mewakili materi-materi informatikadan komputer
--Data pelitika yang bersifat dinamis :  isi data materi, adalah data yang mewakili informasi materi terbaru yang
-telah terupdate
+-Data materi, adalah data-data yang mewakili materi-materi
+-Data pelitika yang bersifat dinamis 
+-Isi data materi, adalah data yang mewakili informasi materi terbaru yang telah terupdate
