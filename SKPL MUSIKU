@@ -225,3 +225,101 @@ Data pelitika yang bersifat statis :
    Kebutuhan	: Semua tanya jawab ataupun tulisan dalam antarmuka disediakan dalam bahasa Indonesia dan bahasa Inggris
 6. ID		:SRS-NF-OUT-025
    Kebutuhan 	: Semua tampilan harus terdapat ciri Indonesia
+
+3.5 Batasan Perancangan
+	Batasan perancangan yang dipakai dalam pengembangan perangkat lunak MUSIKU antara lain.
+	* Tampilan web dibuat dengan menggunakan Corel Draw dan Adobe Illustrator
+	* Text editor yang digunakan adalah Adobe Dreamweaver dan Sublime Text
+	* Bahasa pemrograman yang digunakan adalah HTML, Boostraps
+
+3.6 Kerunutan (traceability)
+	Suatu perangkat lunak yang baik memiliki kebutuhan fungsional yang dapat dirunut model analisisnya. 
+Berikut ini adalah tabel yang berisi traceability dari hasil analisis kebutuhan perangkat lunak yang dibangun.
+
+3.6.1 Kebutuhan Fungsional vs Proses
+	Mapping kebutuhan fungsional dengan proses pada DFD untuk perangkat lunak Super Monster Mall adalah sebagai berikut.
+
+3.6.2 Data Store vs E-R
+	Mapping data store pada DFD dengan Entity –Relasi untuk perangkat lunak MUSIKU adalah sebagai berikut :
+
+3.7 Ringkasan Kebutuhan
+	Perangkat lunak yang dibuat memiliki dua jenis kebutuhan, yaitu kebutuhan fungsional dan kebutuhan non fungsional. 
+Kebutuhan ini mencerminkan semua hal yang harus dipenuhi, dan nantinya akan menjadi arahan untuk tahapan testing, karena pada dasarnya, semua kebutuhan harus dapat ditest. Berikut ini ringkasan semua kebutuhan perangkat lunak MUSIKU.
+
+3.7.1 Kebutuhan Fungsional
+
+    1. ID		: SRS-F-OUT-001
+       Deskripsi	: Perangkat lunak dapat menampilkan form sign up
+       
+    2. ID 		: SRS-F-OUT-002
+       Deskripsi	: Perangkat lunak dapat menampilkan form sign in
+       
+    3. ID		: SRS-F-IN-003
+       Deskripsi	: Perangkat lunak dapat menerima masukan username dan pasword user
+       
+    4. ID		: SRS-F-OUT-004
+       Deskripsi	: Perangkat lunak dapat menampilkan home aplikasi 
+       
+    5. ID		: SRS-F-PR-005
+       Deskripsi	: Perangkat lunak dapat menyediakan mode pencarian terhadap  lagu dengan integrasi map
+       
+    6. ID		: SRS-F-PR-006
+       Deskripsi	: Perangkat lunak dapat menyediakan mode pencarian terhadap lagu, sesuai dengan inputan user
+       
+    7. ID		: SRS-F-OUT-007
+       Deskripsi	: Perangkat lunak dapat memutar musik sesuai dengan input user
+       
+    8. ID		: SRS-F-PR-008
+       Deskripsi	: Perangkat lunak dapat menerima masukan pengguna berupa like ataureview pendengar lagu 
+       
+    9. ID		: SRS-F-OUT-009
+       Deskripsi	: Perangkat lunak dapat menampilkan review lagu yang sering didengarkan pendengar musik 
+       
+   10. ID		: SRS-F-PR-010
+       Deskripsi	: Perangkat lunak dapat menyediakan mode Top Chart sesuai dengan review lagu tiap daerah
+       
+   11. ID		: SRS-F-PR-011
+       Deskripsi	: Perangkat lunak dapat menyediakan mode Report untuk pendengar musik
+       
+   12. ID		: SRS-F-OUT-012
+       Deskripsi	: Perangkat lunak dapat menampilkan informasi report
+       
+   13. ID		: SRS-F-OUT-013
+       Deskripsi	: Perangkat lunak dapat menampilkan form entri pendaftaran
+     
+   14. ID		: SRS-F-IN-014
+       Deskripsi	: Perangkat lunak dapat menerima masukan dari pengguna, berupa pendataan karya musisi/band local daerah
+       
+   15. ID		: SRS-F-PR-015
+       Deskripsi	: Perangkat lunak dapat menyimpan data karya musisi
+       
+   16. ID		: SRS-F-OUT-016
+       Deskripsi	: Perangkat lunak dapat menampilkan data karya musisi di halaman Artist
+
+   17. ID		: SRS-F-OUT-017
+       Deskripsi	: Perangkat lunak dapat menampilkan informasi schedule musisi 
+
+   18. ID		: SRS-F-OUT-018
+       Deskripsi	: Perangkat lunak dapat menampilkan katalog merchandise musisi
+
+   19. ID		: SRS-F-OUT-019
+       Deskripsi	: Perangkat lunak dapat menyediakan mode pencarian terhadap merchandise
+      
+
+
+3.7.2 Kebutuhan Non Fungsional
+
+1. ID		: SRS-NF-OUT-020
+   Deskripsi	: Perangkat Lunak harus terus dapat beroperasi 7 hari perminggu, 24 jam per hari tanpa gagal 
+2. ID		: SRS-NF-OUT-021
+   Deskripsi	: Kegagalan dalam proses transaksi memiliki toleransi satu kali gagal dalam satu minggu
+3. ID		: SRS-NF-OUT-022
+   Deskripsi	: Tampilan antarmuka MUSIKU mudah dipahami user dan estetikanya bagus
+4. ID		: SRS-NF-OUT-023
+   Deskripsi	: Perangkat Lunak mampu mengirimkan notifikasi kepada pengguna maksimal dalam waktu 30 detik
+5. ID		: SRS-NF-OUT-024
+   Deskripsi	: Semua tanya jawab ataupun tulisan dalam antarmuka disediakan dalam bahasa Indonesia dan bahasa Inggris
+6. ID		:SRS-NF-OUT-025
+   Deskripsi 	: Semua tampilan harus terdapat ciri Indonesia
+
+   
