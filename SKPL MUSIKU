@@ -100,8 +100,10 @@ BAB 2
 	Batasan dari apikasi ini adalah :
 	- Pengguna dapat mengupdate data pribadi, upload karya musik, berjualan merchandise tentang dirinya,
 	  dan mendengarkan musik dari musisi lain.
-	- Hanya dapat berjalan pada ponsel yang sudah mendukung JavaScript dan layar sentuh (smartphone). Selain
-itu, tidak semua browser dapat mendukung tampilan yang sesuai dengan browser Mozilla, Chrome dan IE
+	- Tampilan website berdefault Mozilla, Chrome dan IE
+	- Untuk smartphone mobile web yaitu perangkat berupa touch screen, serta kemampuan browser
+yang didukung JavaScript
+mobile dengan ukuran layar minimal 320 piksel, navigasi
 2.4 Lingkungan Operasi
 	Perangkat lunak pada sisi server yang dibutuhkan oleh MUSIKU adalah:
 	- Sebuah PC
