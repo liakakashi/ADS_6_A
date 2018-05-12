@@ -100,7 +100,8 @@ BAB 2
 	Batasan dari apikasi ini adalah :
 	- Pengguna dapat mengupdate data pribadi, upload karya musik, berjualan merchandise tentang dirinya,
 	  dan mendengarkan musik dari musisi lain.
-	- 
+	- Hanya dapat berjalan pada ponsel yang sudah mendukung JavaScript dan layar sentuh (smartphone). Selain
+itu, tidak semua browser dapat mendukung tampilan yang sesuai dengan browser Mozilla, Chrome dan IE
 2.4 Lingkungan Operasi
 	Perangkat lunak pada sisi server yang dibutuhkan oleh MUSIKU adalah:
 	- Sebuah PC
@@ -135,8 +136,8 @@ BAB 3
 	    * Laptop
 
 3.1.3	Antarmuka Perangkat Lunak
-	    Antarmuka yang digunakan oleh perangkat lunak ini adalah sebuah smartphone dengan minimal versi Android 4.0-4.02 
-      Ice Cream Sandwich (API level 14).
+	    Antarmuka yang digunakan oleh perangkat lunak ini adalah sebuah 
+web tersebut dengan baik
 
 3.1.4	Antarmuka Komunikasi
 	    Antarmuka komunikasi yang digunakan untuk mengoperasikan perangkat lunak antara lain :
